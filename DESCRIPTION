@@ -1,7 +1,7 @@
 Package: shinyGridster
 Type: Package
 Title: Gridster package for Shiny
-Version: 0.0.1
+Version: 0.1
 Author: RStudio, Inc.
 Maintainer: Winston Chang <winston@rstudio.com>
 Description: Gridster for Shiny
