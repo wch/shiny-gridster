@@ -25,6 +25,7 @@
 #'  )
 #' )
 #' }
+#' @import shiny
 #' @export
 gridster <- function(..., marginx = 16, marginy = 16, width = 140, height = 140) {
   addResourcePath(

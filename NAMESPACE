@@ -1,2 +1,3 @@
 export(gridster)
 export(gridsterItem)
+import(shiny)
